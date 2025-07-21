@@ -1,8 +1,8 @@
 # GenAI-RAG RealEstate Research Assistant
 
-Aim of the project: Generate Coherent answers based on the given real-estate specific knowledge URLs.
+Aim of the project: Generate coherent answers based on the given real-estate specific knowledge URLs.
 
-Technical Architecture: 
+## Technical Architecture: 
  - Input documents (as URLs) are provided to Langchain URLLoader 
  - Split the content of documents into chunks by Langchain text splitter
  - Chunks are transformed into Embedding vectors by HuggingFace Embedding Model
