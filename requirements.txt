@@ -5,3 +5,4 @@ langchain-community==0.3.27
 langchain-groq==0.3.6
 langchain-huggingface==0.3.0
 pandas==2.3.0
+pysqlite3-binary
