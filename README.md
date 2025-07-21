@@ -1,4 +1,4 @@
-# GenAI-RAG RealEstate Research Assistant
+# GenAI-RAG Real Estate Research Assistant
 
 Aim of the project: Generate coherent answers based on the given real-estate specific knowledge URLs.
 
